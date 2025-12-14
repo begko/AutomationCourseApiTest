@@ -4,8 +4,8 @@ import java.util.List;
 
 public class Pet {
 
-    private long id;          // <-- petId yerine id
-    private String name;      // <-- petName yerine name
+    private long id;
+    private String name;
     private String status;
     private Category category;
     private List<String> photoUrls;
